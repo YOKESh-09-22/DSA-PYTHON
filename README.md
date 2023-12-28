@@ -1,5 +1,5 @@
-# DSA-java
-explains dsa in java
+# DSA-python
+explains dsa in python
 
 
 
